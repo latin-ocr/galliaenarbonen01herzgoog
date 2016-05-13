@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./galliaenarbonen01herzgoog_0015.png"; bbox 0 0 3184 5162; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 697 1623 733 1720">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 697 1623 733 1720">
+     <span class='ocr_line' id='line_1_1' title="bbox 697 1623 733 1720; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 697 1623 733 1720; x_wconf 88' lang='lat'><strong>1.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 346 1957 1086 2104">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 346 1957 1086 2153">
+     <span class='ocr_line' id='line_1_2' title="bbox 346 1957 1086 2104; baseline -0.004 -1"><span class='ocrx_word' id='word_1_2' title='bbox 346 1991 622 2103; x_wconf 72' lang='lat' dir='ltr'><strong>GALLIAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 656 1957 1086 2104; x_wconf 71' lang='lat' dir='ltr'><strong>NARBONENSIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 200 2309 1414 2431">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 200 2309 1414 2431">
+     <span class='ocr_line' id='line_1_3' title="bbox 200 2309 1414 2431; baseline 0.005 -26"><span class='ocrx_word' id='word_1_4' title='bbox 200 2330 573 2408; x_wconf 77' lang='lat' dir='ltr'><strong>PROV-INOIAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 607 2331 897 2408; x_wconf 78' lang='lat' dir='ltr'><strong>ROMANAE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 934 2330 1225 2408; x_wconf 73' lang='lat' dir='ltr'>HlsTofflA</span> <span class='ocrx_word' id='word_1_7' title='bbox 1247 2415 1273 2431; x_wconf 85' lang='lat'><strong>..</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1408 2309 1414 2318; x_wconf 83' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 258 2635 1172 2703">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 258 2635 1172 2703">
+     <span class='ocr_line' id='line_1_4' title="bbox 258 2635 1172 2703; baseline 0.001 -5"><span class='ocrx_word' id='word_1_9' title='bbox 258 2635 530 2701; x_wconf 80' lang='lat' dir='ltr'>DESCRIPTIO</span> <span class='ocrx_word' id='word_1_10' title='bbox 553 2635 895 2702; x_wconf 83' lang='lat' dir='ltr'>INSTITUTORUM</span> <span class='ocrx_word' id='word_1_11' title='bbox 916 2636 1172 2703; x_wconf 83' lang='lat' dir='ltr'><strong>EXPOSITIO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1596 5162">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1596 5162">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1596 5162; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1596 5162; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
